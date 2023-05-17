@@ -1,8 +1,3 @@
-<%-- 
-    Document   : contactoget
-    Created on : 15 abr. 2023, 16:54:58
-    Author     : Fabian
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
